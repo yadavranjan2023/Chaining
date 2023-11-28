@@ -1,3 +1,9 @@
+# This code demonstrates the process of chaining AI models for network traffic prediction and anomaly detection. 
+# The LSTM model is used to forecast future traffic patterns, while the Isolation Forest model identifies anomalous traffic deviations.
+# The predicted traffic and detected anomalies are then analyzed to trigger appropriate actions, such as resource allocation or anomaly investigation.
+# Author: Rani Yadav-Ranjan
+# Nov. 28, 2023
+
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 from tensorflow import keras
