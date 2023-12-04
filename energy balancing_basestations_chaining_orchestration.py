@@ -1,5 +1,7 @@
-# AI model can be used to optimize the energy consumption of radio base stations by chaining together different machine learning algorithms. The first algorithm can be used to forecast traffic demand for each base station. The
-# second algorithm can then use this forecast to determine the optimal power settings for each base station. Finally, a third algorithm can be used to monitor the energy consumption of the base stations and make adjustments to
+# AI model can be used to optimize the energy consumption of radio base stations by chaining together different machine learning algorithms. 
+# The first algorithm can be used to forecast traffic demand for each base station. The
+# second algorithm can then use this forecast to determine the optimal power settings for each base station.
+# Finally, a third algorithm can be used to monitor the energy consumption of the base stations and make adjustments to
 # the power settings as needed.
 # Author: Rani Yadav-Ranjan
 # Nov. 23, 2023
